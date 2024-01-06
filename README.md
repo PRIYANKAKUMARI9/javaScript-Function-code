@@ -1,0 +1,1 @@
+# javaScript-Function-code
